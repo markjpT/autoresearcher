@@ -23,7 +23,7 @@ setup(
     install_requires=[
         "openai==0.27.0",
         "python-dotenv==1.0.0",
-        "requests==2.26.0",
+        "requests==2.32.2",
         "termcolor==1.1.0",
         "jellyfish==0.11.2",
         "tiktoken==0.3.3",
